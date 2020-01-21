@@ -43,7 +43,7 @@
       <span class="active"><a href="#" style="color: white;">  <i class="fab fa-instagram hvr-bob" style="font-size: large;color: #f5f2f2;padding: 8px;background-image: linear-gradient(to right, #f7c003,#f90811,#8d47b9); border-radius: 15px;"></i> </a></span>
       <span><img style="width: 25%;  margin: 0 -24px;" src="img/logo/liberty.png" alt=""/></span>
      
-       
+       <h1>ashif is a developer</h1>
     </div>
         
      
